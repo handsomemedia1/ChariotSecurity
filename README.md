@@ -696,3 +696,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [Website](#) • [Documentation](#) • [Twitter](#) • [Discord](#)
 
 </div>
+#   C h a r i o t S e c u r i t y  
+ 
